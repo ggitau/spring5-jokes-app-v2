@@ -1,4 +1,4 @@
-package com.ggitau.jokes.spring5_jokes_app_v2;
+package com.ggitau.jokes.spring5jokesappv2;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

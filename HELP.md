@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'com.ggitau.jokes.spring5-jokes-app-v2' is invalid and this project uses 'com.ggitau.jokes.spring5_jokes_app_v2' instead.
+* The original package name 'com.ggitau.jokes.spring5-jokes-app-v2' is invalid and this project uses 'com.ggitau.jokes.spring5jokesappv2' instead.
 
 # Getting Started
 
